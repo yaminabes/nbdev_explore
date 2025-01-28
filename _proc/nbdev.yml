@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "nbdev_explore"
-  site-url: "https://yaminabes.github.io/nbdev_explore"
-  description: "following walkthrough of nbdev app"
-  repo-branch: master
-  repo-url: "https://github.com/yaminabes/nbdev_explore"
